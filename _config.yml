@@ -9,7 +9,7 @@ url: # add your site url (format: https://example.com)
 # Optional settings
 
 about_enabled: false
-baseurl: # Set if blog doesn't sit at the root of the domain (format: /blog)
+baseurl: /articles
 discus_identifier: # Add your Disqus identifier
 ga_analytics: # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
