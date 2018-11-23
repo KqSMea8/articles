@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ragozzine</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Leaving WordPress for GitHub Pages</title>
+        <description></description>
+        <pubDate>Wed, 06 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/leaving-wordpress-for-github-pages</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/leaving-wordpress-for-github-pages</guid>
+      </item>
+    
+      <item>
+        <title>Creating an ideal epic</title>
+        <description></description>
+        <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/creating-an-ideal-epic</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/creating-an-ideal-epic</guid>
+      </item>
+    
+      <item>
+        <title>Hide on mobile: A &lt;em&gt;display: none;&lt;/em&gt; allegory</title>
+        <description></description>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/hide-on-mobile-a-display-none-allegory</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/hide-on-mobile-a-display-none-allegory</guid>
+      </item>
+    
+      <item>
+        <title>Debating opinions is bad communication</title>
+        <description></description>
+        <pubDate>Sat, 12 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/debating-opinions-is-bad-communication</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/debating-opinions-is-bad-communication</guid>
+      </item>
+    
+      <item>
+        <title>WordPress: In crisis</title>
+        <description></description>
+        <pubDate>Sun, 24 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/wordpress-in-crisis</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/wordpress-in-crisis</guid>
+      </item>
+    
+      <item>
+        <title>Managing internal projects</title>
+        <description></description>
+        <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/managing-internal-projects</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/managing-internal-projects</guid>
+      </item>
+    
+      <item>
+        <title>Battery Status API: Empowering device batteries to be in charge of UX</title>
+        <description></description>
+        <pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/battery-status-api-empowering-device-batteries-to-be-in-charge-of-ux</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/battery-status-api-empowering-device-batteries-to-be-in-charge-of-ux</guid>
+      </item>
+    
+      <item>
+        <title>Ixnay on the “you guys,” yous guys</title>
+        <description></description>
+        <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/ixnay-on-the-you-guys</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/ixnay-on-the-you-guys</guid>
+      </item>
+    
+      <item>
+        <title>Being bitten by bytes: You may have an image issue</title>
+        <description></description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/being-bitten-by-bytes-you-may-have-an-image-issue</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/being-bitten-by-bytes-you-may-have-an-image-issue</guid>
+      </item>
+    
+      <item>
+        <title>The 10 stages of writing: Iterating ideas from draft to done</title>
+        <description></description>
+        <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/the-10-stages-of-writing-iterating-ideas-from-draft-to-done</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/the-10-stages-of-writing-iterating-ideas-from-draft-to-done</guid>
+      </item>
+    
+  </channel>
+</rss>
